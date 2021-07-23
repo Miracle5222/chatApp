@@ -2,7 +2,10 @@ import React from 'react'
 
  const Chats = () => {
     return (
-        <h1>Chats</h1>
+        <div>
+            <h2>Hello My Frind</h2>
+            <h1>This is the Chat Room</h1>
+        </div>
     );
 }
 
