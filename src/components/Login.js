@@ -5,6 +5,7 @@ import "firebase/app";
 import { auth } from "../firebase";
 
 const Login = () => {
+
   return (
     <div id="login-page">
       <div id="login-card">
@@ -26,7 +27,7 @@ const Login = () => {
           }
         >
           <FacebookOutlined />
-          Sign In with Google
+          Sign In with Facebook
         </div>
       </div>
     </div>
